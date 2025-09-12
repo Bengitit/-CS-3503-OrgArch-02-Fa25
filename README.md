@@ -15,7 +15,6 @@ It converts unsigned integers into binary, octal, decimal, and hexadecimal using
 make sure to install:
 main.c
 convert.c
-convert.h
 
 ## Build Instructions## Build Instructions
 ‘‘‘bash
