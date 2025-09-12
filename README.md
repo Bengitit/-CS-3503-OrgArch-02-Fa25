@@ -19,14 +19,17 @@ convert.h
 
 ## Build Instructions## Build Instructions
 ‘‘‘bash
-"cd C:\Users\amega\Downloads\OrhArch"//file location of selected folder location
-
-"gcc -std=c11 -Wall -Wextra -O2 -o convert convert.c main.c"
-"convert.exe a1_test_file.txt > output.txt"
+1)."User-file-location-of-selected-three-folder"
+Ex:cd C:\Users\KSU\Downloads
+2)."gcc -o convert convert.c main.c"
+3)."convert.exe a1_test_file.txt > output.txt"
+or
+"./convert.exe a1_test_file.txt > output.txt"
 ‘‘‘
 
 ## Test Results
-[X/Y tests passed - paste summary here ]
+Expected results
+[Summary: 131/133 tests passed ]
 
 ## Notes
-[Any interesting discoveries or challenges ]
+[Any interesting discoveries or challenges]
