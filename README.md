@@ -1,6 +1,6 @@
-# -CS-3503-OrgArch-02-Fa25
-My Assignments and or Projects
 # CS 3503 Assignment 1 - Number Base Conversion
+My Assignments and or Projects
+# -CS-3503-OrgArch-02-Fa25
 
 ## Author
 [ Abass Diaby ]
